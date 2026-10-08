@@ -1,5 +1,5 @@
 # Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
-## Work Done By Team Nexus
+
 
 
 ### Make sure to create a `.env` file with following variables -
